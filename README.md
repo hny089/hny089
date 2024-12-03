@@ -9,9 +9,8 @@
       </animated-image>
       </h1></div>
 <div class="markdown-heading" dir="auto"><h3 class="heading-element" dir="auto"> &nbsp;About Me :</h3><a id="user-content-woman_technologist-about-me-" class="anchor" aria-label="Permalink: :woman_technologist: &nbsp;About Me :" href="#woman_technologist-about-me-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
-<p dir="auto">🔭 I'm a Software Engineer, crafting both the front and back ends of web applications. <animated-image data-catalyst="" style="width: 30px;"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/ad38c424479dba43b6ded15fecfde6b53cf9fcd6ff3dc7715d5bcb43f8bbefb8/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" data-target="animated-image.originalLink"><img src="https://camo.githubusercontent.com/ad38c424479dba43b6ded15fecfde6b53cf9fcd6ff3dc7715d5bcb43f8bbefb8/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" data-canonical-src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
-      </animated-image></p>
-<p dir="auto">Contac me via email: <a href="mailto:rastargueva.m@gmail.com">rastargueva.m@gmail.com</a></p>
+<p dir="auto">🔭 I'm a Software Engineer, crafting both the front and back ends of web applications. </p>
+<p dir="auto">Contact me via email: <a href="mailto:hny089@gmail.com">hny089@gmail.com</a></p>
 <p dir="auto">💯 Top skills:</p>
 <ul dir="auto">
 <li>Collaborating with other developers and stakeholders</li>
