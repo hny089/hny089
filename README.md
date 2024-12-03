@@ -18,7 +18,7 @@
 <li>I'm user-friendly interfaces addicted that meet the client's needs.</li>
 <li>Solid foundation in data analysis and business logic.</li>
 </ul>
-<p dir="auto">🖥️  Checkout my <a href="http://www.staticwise.io/case-studies" rel="nofollow">latest projects</a></p>
+<!-- <p dir="auto">🖥️  Checkout my <a href="http://www.staticwise.io/case-studies" rel="nofollow">latest projects</a></p> -->
 <!-- <p align="center" dir="auto">
  <a target="_blank" rel="noopener noreferrer" href="/maryna-js/maryna-js/blob/main/assets/snake.svg"><img width="600" src="/maryna-js/maryna-js/raw/main/assets/snake.svg" alt="snake" style="max-width: 100%;"></a>
 </p> -->
