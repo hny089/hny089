@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHNiMmZhd2Fka2FoOWt3eTV1dWt2OGZlaTd0dG0yZjRvMDNmazJ5OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif" width="600"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWZnNXpvYjk3Y3RuMWc0OHp2dWNhZTI1eXI3dm5wenFucjRnbnkxeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcB8XospGZO8UQq87/giphy.gif" width="600"/>
 </div>
 <p align="center" style="padding-top: 10px">
 <a href="https://www.linkedin.com/in/gurbakshish-singh-41541818b/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
