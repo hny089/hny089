@@ -12,7 +12,7 @@
 
 🔭 I'm a Software Engineer, crafting both the front and back ends of web applications. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-Contac me via email: hny089@gmail.com
+Contact me via email: hny089@gmail.com
 
 💯 Top skills:
 - Collaborating with other developers and stakeholders
